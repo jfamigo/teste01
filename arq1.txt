@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 lorem ipsum dolor
+djshdskjdhskjfdhskhkdjshkdjs
+idshjdjshkdjshhkds
+jbjhdsghdksjkj
+kdjlkjflds
+>>>>>>> bcac32db4e8965e1537e749de0c8436b8ad9b3d2
