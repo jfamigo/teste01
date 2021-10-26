@@ -1,5 +1,11 @@
+<<<<<<< HEAD
+lorem ipsum dolor
 djshdskjdhskjfdhskhkdjshkdjs
 idshjdjshkdjshhkds
 jbjhdsghdksjkj
 kdjlkjflds
+<<<<<<< HEAD
 alterando aqruivo...[D[D[1;rquivo
+=======
+>>>>>>> bcac32db4e8965e1537e749de0c8436b8ad9b3d2
+>>>>>>> 425a0e1405635e140e3567af5b33fc899d416c98
